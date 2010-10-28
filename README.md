@@ -19,8 +19,10 @@ Clone the git repository in the same folder CKEditor is installed.
 
 The edit the CKImageManager/php/config.php file and edit
 
+
 $config["base_url"]="http://url/to/image/folder";
 $config["upload_path"]="/path/to/images/folder";
+
 
 To the url and the folder where the images/flash animations will be uploaded
 
