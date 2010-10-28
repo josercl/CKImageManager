@@ -10,7 +10,6 @@ It can do all the simple tasks a file manager can do:
 * Rename files
 * Create and delete folders
 
-
 Instructions
 ------------
 
