@@ -42,7 +42,6 @@ require_once("php/config.php");
 <script src="js/main.js"></script>
 <script>
 function ok(fileUrl){
-	alert(window.parent.opener.CKEDITOR);
 	window.parent.opener.CKEDITOR.tools.callFunction('<?php echo $_GET["CKEditorFuncNum"]?>', fileUrl);
 }
 </script>
